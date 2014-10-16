@@ -9,7 +9,8 @@
         "url": "https://github.com/englercj/node-esl.git"
     },
     "dependencies": {
-        "modesl": "0.x"
+        "modesl": "0.x",
+        "underscore" : "1.6.0"
     },
     "engines": {
         "node": ">=0.8.x"
